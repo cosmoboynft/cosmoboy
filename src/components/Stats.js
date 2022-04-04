@@ -103,7 +103,7 @@ function Stats(props) {
     
     
 
-    const url = 'https://api.opensea.io/api/v1/collections?asset_owner=0x2a1ea3ac74703c4efbf09252d6e859296344de5e&offset=0';
+    const url = 'https://api.opensea.io/api/v1/collections?asset_owner=0xD6754eBCCA004C48E09Fc130Ded72A8DCcfc165d&offset=0';
     const [collection, setCollection] = useState(null);
 
     useEffect(()=> {
