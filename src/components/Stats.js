@@ -103,7 +103,7 @@ function Stats(props) {
     
     
 
-    const url = 'https://api.opensea.io/api/v1/collections?asset_owner=0xD6754eBCCA004C48E09Fc130Ded72A8DCcfc165d&offset=0';
+    const url = 'https://api.opensea.io/api/v1/collections?asset_owner=cosmoboyassest&offset=0';
     const [collection, setCollection] = useState(null);
 
     useEffect(()=> {
