@@ -63,7 +63,7 @@ export const Faq = () => {
                             Faq
                         </Typography>
                     </Grid>
-                    <Faqaccordion question="What is SneakPunks?" answer="SneakPunks is a NFT collection of 1000 custom made 570x570 images of different NFT`s, every NFT is cool and different!" />
+                    <Faqaccordion question="What is Cosmoboy?" answer="Cosmoboy is a NFT collection of 1000 custom made 570x570 images of different NFT`s, every NFT is cool and different!" />
                     <Faqaccordion question="How do I get one?" answer="1. Create a free account at Opensea.io. 2. Download the Metamask browser extension. 3. Transfer some ETH to your Metamask account.  4. Shop for some Cosmoboy at opensea.io or MINT them" />
                     <Faqaccordion question="What benefits do I get from owning a Cosmoboy?" answer="Other than being cool, you get access to our BIG Community where you will get a free copy." />
                     <Faqaccordion question="What token standard and blockchain do you use?" answer="We use the ERC-721 token standard and the Ethereum Blockchain." />
